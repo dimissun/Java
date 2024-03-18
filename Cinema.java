@@ -11,9 +11,9 @@ public class Cinema {
 
            Scanner sc = new Scanner(System.in);
 
-           System.out.println("Choice Row 0 or 1");
+           System.out.println("Choose Row 0 or 1");
            int row = sc.nextInt();
-           System.out.println("Choice seat 0,1,2,3");
+           System.out.println("Choose seat 0,1,2,3");
            int colum = sc.nextInt();
 
     
